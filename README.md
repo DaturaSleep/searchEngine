@@ -1,4 +1,4 @@
-# searchEngine
+# Search Engine
 Simple search engine with TF-IDF
 
 ## Task
