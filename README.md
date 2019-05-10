@@ -1,5 +1,5 @@
 # Search Engine
-Simple search engine with TF-IDF
+Simple search engine with TF-IDF usage
 
 ## Task
 The goal of this assignment is to create a simple search engine in Java. The search engine should be implemented
