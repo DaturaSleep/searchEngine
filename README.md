@@ -7,6 +7,6 @@ as an inverted index (http://en.wikipedia.org/wiki/Inverted_index) that runs in 
 list that is sorted by TF-IDF (http://en.wikipedia.org/wiki/Tf*idf).
 
 ### The search engine should:
-* be able to take in a list of documents[method mapListOfFiles](https://github.com/DaturaSleep/searchEngine/blob/master/search-engine/src/main/java/engine/SearchEngine.java)
+* be able to take in a list of documents [method mapListOfFiles](https://github.com/DaturaSleep/searchEngine/blob/master/search-engine/src/main/java/engine/SearchEngine.java)
 * support searches for single terms in the document set [method search](https://github.com/DaturaSleep/searchEngine/blob/master/search-engine/src/main/java/engine/SearchEngine.java)
 * return a list of matching documents sorted by TF-IDF [method search](https://github.com/DaturaSleep/searchEngine/blob/master/search-engine/src/main/java/engine/SearchEngine.java)
